@@ -1,0 +1,22 @@
+2024/04/11 23:57:27 - 21522180_GreetingServer: Waiting for client on port 6060...
+2024/04/11 23:58:07 - 21522180_GreetingClient: Ket noi toi localhost on port 6060
+2024/04/11 23:58:07 - 21522180_GreetingClient: Just connected to localhost/127.0.0.1:6060
+2024/04/11 23:58:07 - 21522180_GreetingServer: Just connected to /127.0.0.1:42911
+2024/04/11 23:58:07 - 21522180_GreetingClient: Hello from /127.0.0.1:42911
+2024/04/11 23:58:07 - 21522180_GreetingClient: Server says Thank you for connecting to /127.0.0.1:6060
+Goodbye!
+2024/04/11 23:58:07 - 21522180_GreetingServer: Thank you for connecting to 0.0.0.0/0.0.0.0:6060
+Goodbye!
+
+2024/04/12 01:02:46 - 21522180_UDPServer: Server started on port 9090
+2024/04/12 01:03:00 - 21522180_UDPClient: Connected to server on port 9090
+2024/04/12 01:03:11 - 21522180_UDPClient:  hello Server
+2024/04/12 01:03:11 - 21522180_UDPServer: Client send a message: hello Server
+2024/04/12 01:03:29 - 21522180_UDPServer: Xin ch�o client
+2024/04/12 01:03:29 - 21522180_UDPClient: Server send to client a message: Xin ch�o client
+2024/04/12 01:03:36 - 21522180_UDPServer: B?n kh?e kh�ng
+2024/04/12 01:03:36 - 21522180_UDPClient: Server send to client a message: B?n kh?e kh�ng
+2024/04/12 01:03:51 - 21522180_UDPClient:  Khong
+2024/04/12 01:03:51 - 21522180_UDPServer: Client send a message: Khong
+2024/04/12 01:03:55 - 21522180_UDPClient:  Tam Biet
+2024/04/12 01:03:55 - 21522180_UDPServer: Client send a message: Tam Biet
